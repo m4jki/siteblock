@@ -1,2 +1,5 @@
 ||facebook.com^
 *$domain=facebook.com
+
+||x.com^
+*$domain=x.com
